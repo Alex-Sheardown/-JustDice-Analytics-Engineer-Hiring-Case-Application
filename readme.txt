@@ -11,7 +11,7 @@ PowerPoint
 
 Instructions
 To run this project, follow these steps:
-1. Download the project files from [GitHub link]
+1. Download the project files from "https://github.com/Alex-Sheardown/-JustDice-Analytics-Engineer-Hiring-Case-Application"
 2. Un zip the file [Data_Sets] folder if not already done so
 
 python code:
