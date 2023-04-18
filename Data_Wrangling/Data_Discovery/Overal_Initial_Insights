@@ -1,0 +1,17 @@
+Files in Repository
+This repository contains four files: adspend.csv, installs.csv, payouts.csv, and revenue.csv. All files have a time frame of one year and have been preliminarily reviewed with no need for cleaning. Here's a brief summary of each file:
+
+adspend.csv
+This file contains information on advertising spend across different media channels. It shows the network id, country id, client id, the money spent, and the date. There are 52003 ads purchased with a general cost of 0.35 cents, and a total of 27 different clients.
+
+installs.csv
+This file shows the install id, country id, app id, network id, event date, and device OS version. It tells us how many total downloads occur, how many different apps are installed, and how many countries the company services. There are four unique network ids in this file and two in adspend.csv, suggesting that two of the other network ids don't require ad purchases. The column device OS version raises interesting questions, and further study may be required to derive meaning from the data.
+
+payouts.csv
+This file gives an interesting look at the overall workings of some of the apps. There are only 83448 unique install ids, while installs.csv shows 216887, indicating that a considerable number of apps either don't have a payout or were not used. A box plot shows a large number of outliers, but the mean payout is around 1.592983e-01.
+
+revenue.csv
+This file represents in-app purchases. There are only 20939 unique install ids in this file, compared to 83448 in payouts.csv, and the total number of installs is 216887.
+
+Overall, these files provide valuable insights into the company's operations and can be used for further analysis.
+

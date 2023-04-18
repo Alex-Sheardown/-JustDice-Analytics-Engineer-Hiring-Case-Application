@@ -1,0 +1,19 @@
+1.Download and understand the dataset.
+
+2.Create Jupyter notebooks to examine the four CSV files provided: 'adspend', 'installs', 'payouts', and 'revenue'.
+
+3.Determine if any data cleaning is needed and establish a plan for handling the data.
+
+4.Move the files to a MySQL server to gain a better understanding of the relationships between the datasets.
+
+5.Create a table that summarizes 'installs', 'payouts', and 'revenue' around the install_id field.
+
+6.Ensure the accuracy of the SQL statements by comparing them with the Python analysis.
+
+7.Move the table to Power BI and begin creating visualizations.
+
+8.Focus on creating visuals that deliver crucial information about the company's major source of revenue and opportunities for growth.
+
+9.Create a PowerPoint or PDF to convey the information in an effective manner.
+
+10.Follow the presentation with a full script that describes what the presentation showed.
